@@ -1,0 +1,19 @@
+.rodape {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em 0;
+    gap: .5rem;
+}
+
+.rodape h3 {
+    font-size: 1rem;
+    color: white;
+}
+
+.rodape h2 {
+    font-size: 1rem;
+    color: blue;
+}
